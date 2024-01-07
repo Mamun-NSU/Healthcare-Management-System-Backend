@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AppointmentSchedulingService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/AppointmentSchedulingService.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AuthenticationService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/AuthenticationService.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ClinicalDecisionSupportSystemService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ClinicalDecisionSupportSystemService.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CommunityPortalService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/CommunityPortalService.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DoctorDataManagementService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/DoctorDataManagementService.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GPTService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/GPTService.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Healthcare Management  Backend.iml" filepath="$PROJECT_DIR$/.idea/Healthcare Management  Backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NotificationAndAlertService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/NotificationAndAlertService.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PatientDataManagementService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/PatientDataManagementService.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PharmaceuticalInventoryManagementService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/PharmaceuticalInventoryManagementService.main.iml" />
+    </modules>
+  </component>
+</project>
